@@ -8,6 +8,6 @@ Add block data into WP API.
 
 ## Installation
 1. Download this repository as a zip file.
-3. Go to Dashboard 'Plugins' -> 'Add Plugin' -> 'Upload' area
+3. Go to WP admin dashboard 'Plugins' -> 'Add Plugin' -> 'Upload' area
 4. Choose just downloaded `wp-block-to-api-master.zip` and click 'Install Now'
 5. Activate the plugin in the Plugin dashboard
