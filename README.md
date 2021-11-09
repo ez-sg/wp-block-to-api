@@ -4,7 +4,7 @@ Add block data into WP API.
 ## Requirements
 - PHP Requires at least: 5.5
 - PHP Tested up to: 5.8
-- PHP Requires: 7.0.0
+- PHP Default Requires: 7.0.0
 
 ## Installation
 1. Download this repository as a zip file.
